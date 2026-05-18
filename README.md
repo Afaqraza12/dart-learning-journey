@@ -21,6 +21,7 @@ Welcome to my repository tracking my progress as I learn the Dart programming la
 * **Skip and Stop Simulator:** A precise execution control system that uses custom nested condition rules along with `continue` and `break` keywords to dynamically manipulate loop lifecycles.
 * **Perfect Number Finder:** An advanced math processing script using nested iteration to calculate proper divisors and identify integers equal to the sum of their factors.
 * **Star Pattern Generators:** Visual matrix scripts utilizing the `dart:io` library (`stdout.write`) to construct geometric right-angled and inverted triangle patterns.
+* **Developer Portfolio Analytics Engine:** A comprehensive terminal software script uniting state machines, nested matrices, control loop overrides, and conditional data processing.
 
 ---
 *Happy Coding! 💻*
