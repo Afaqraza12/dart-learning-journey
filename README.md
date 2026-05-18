@@ -11,6 +11,7 @@ Welcome to my repository tracking my progress as I learn the Dart programming la
 * **Ternary Operators:** Clean, inline shorthand (`? :`) for conditional checks.
 * **Loops & Iteration:** Repeating code blocks efficiently using `for` loops, conditional execution with `while` loops, and guaranteed post-check execution with `do-while` loops.
 * **Loop Control Modifiers:** Using `continue` to selectively skip specific loop iterations and `break` to terminate execution blocks immediately.
+* **Nested Loops & Grid Layouts:** Running loops inside loops to solve complex math limits and generate matrix-style string patterns.
 
 ## 📁 Key Practice Programs In This Repo
 * **Receipt Generator:** A cash register simulator calculating item prices, static tax rates, and total bills.
@@ -18,6 +19,8 @@ Welcome to my repository tracking my progress as I learn the Dart programming la
 * **Premium Discount & Cap System:** A complex, nested logic script evaluating membership tiers and dynamic discount thresholds with a maximum cap.
 * **Even Number Filter:** An iterative filter that uses a `for` loop and conditional math operators to isolate and print even numbers.
 * **Skip and Stop Simulator:** A precise execution control system that uses custom nested condition rules along with `continue` and `break` keywords to dynamically manipulate loop lifecycles.
+* **Perfect Number Finder:** An advanced math processing script using nested iteration to calculate proper divisors and identify integers equal to the sum of their factors.
+* **Star Pattern Generators:** Visual matrix scripts utilizing the `dart:io` library (`stdout.write`) to construct geometric right-angled and inverted triangle patterns.
 
 ---
 *Happy Coding! 💻*
