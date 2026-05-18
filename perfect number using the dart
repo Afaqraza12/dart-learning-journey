@@ -1,0 +1,16 @@
+// find perfect number using dart for loop
+
+
+void main() {
+  for (int i = 2; i <= 50; i++) {
+    int sumofDiv = 0;
+    for (int j = 1; j < i; j++) {
+      if (i % j == 0) {
+        sumofDiv += j;
+      }
+    }
+    if (sumofDiv == i) {
+      print("the perfect divisior is $sumofDiv");
+    }
+  }
+}
