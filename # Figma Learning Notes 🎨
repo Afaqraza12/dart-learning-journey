@@ -1,0 +1,27 @@
+# Figma Learning Notes 🎨
+
+## What is Figma?
+Figma is a cloud-based UI/UX design tool used to design:
+- Mobile Apps
+- Websites
+- Dashboards
+- Prototypes
+- User Interfaces
+
+It allows designers and developers to collaborate in real time.
+
+---
+
+# Basic Concepts of Figma
+
+## 1. Frame
+Frames are like screens or pages in mobile app design.
+
+Example:
+- Mobile Screen
+- Login Page
+- Home Screen
+
+Shortcut:
+```txt
+F
