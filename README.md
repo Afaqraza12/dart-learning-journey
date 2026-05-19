@@ -1,3 +1,4 @@
+# afaq raza 
 # Dart Learning Journey 🚀
 
 Welcome to my repository tracking my progress as I learn the Dart programming language from scratch! This repository is a collection of hands-on practice tasks, exercises, and logical challenges designed to build a strong foundation in modern Dart.
@@ -25,3 +26,25 @@ Welcome to my repository tracking my progress as I learn the Dart programming la
 
 ---
 *Happy Coding! 💻*
+
+## 👨‍🎨 Mafaz Noor
+
+- 🎓 CS Student | 3rd Semester @ University of Haripur
+- 🎨 Learning Figma & UI/UX Design
+- 📱 Aspiring Mobile App Developer
+- 🚀 Passionate about clean and modern mobile app interfaces
+- 💡 Exploring Wireframing, Prototyping & Design Systems
+
+## 🎨 Design Tools & Skills
+
+![Figma](https://img.shields.io/badge/Figma-Design-orange?style=for-the-badge&logo=figma)
+
+- Figma
+- UI/UX Design
+- Wireframing
+- Mobile App Design
+- Prototyping
+
+## 🔗 Figma Designs
+
+[View My Figma Designs](PASTE_YOUR_FIGMA_LINK_HERE)
