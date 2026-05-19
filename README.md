@@ -1,6 +1,7 @@
-# afaq raza 
+# Afaq Raza 
 # Dart Learning Journey 🚀
-
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 Welcome to my repository tracking my progress as I learn the Dart programming language from scratch! This repository is a collection of hands-on practice tasks, exercises, and logical challenges designed to build a strong foundation in modern Dart.
 
 ## 🛠️ Concepts Covered So Far
@@ -29,7 +30,7 @@ Welcome to my repository tracking my progress as I learn the Dart programming la
 
 ## 👨‍🎨 Mafaz Noor
 
-- 🎓 CS Student | 3rd Semester @ University of Haripur
+- 🎓 CS Student | 4th Semester @ University of Haripur
 - 🎨 Learning Figma & UI/UX Design
 - 📱 Aspiring Mobile App Developer
 - 🚀 Passionate about clean and modern mobile app interfaces
