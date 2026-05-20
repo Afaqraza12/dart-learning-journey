@@ -24,6 +24,10 @@ Welcome to my repository tracking my progress as I learn the Dart programming la
 * **Perfect Number Finder:** An advanced math processing script using nested iteration to calculate proper divisors and identify integers equal to the sum of their factors.
 * **Star Pattern Generators:** Visual matrix scripts utilizing the `dart:io` library (`stdout.write`) to construct geometric right-angled and inverted triangle patterns.
 * **Developer Portfolio Analytics Engine:** A comprehensive terminal software script uniting state machines, nested matrices, control loop overrides, and conditional data processing.
+* * **Advanced Return Types & Records:** Returning multiple values securely without creating custom classes, utilizing positional fields (`.$1`, `.$2`).
+* **Closures & Higher-Order Functions:** Creating factory functions that generate and return customized anonymous functions.
+* **Flexible Parameter Configurations:** Deep practice with positional parameters, named parameters, and required keyword parameters (`required`).
+* **State & Scope Management:** Managing variables across execution barriers inside outer and inner function blocks.
 
 ---
 *Happy Coding! 💻*
